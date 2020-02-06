@@ -57,10 +57,6 @@ files.forEach((file) => {
 
 
 console.log(outputFiles)
-outputFiles.sort((a, b) => {
-  return b.order - a.order;
-})
-
 
 const output = `<html>
 <head>
