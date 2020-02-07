@@ -4,7 +4,7 @@ Script to view the A2 submissions more easily.
 
 ## How to use
 
-This script requires you to have some relatiively modern version of Node.js installed (6+, if you've installed in the last 2-3 years it should be fine).
+This script requires you to have some relatively modern version of Node.js installed (6+, if you've installed in the last 2-3 years it should be fine).
 
 ### Running
 
